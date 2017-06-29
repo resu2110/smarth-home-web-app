@@ -1,0 +1,5 @@
+org\spring\smarthome\web\model\StateMapper.class
+org\spring\smarthome\web\model\State.class
+org\spring\smarthome\web\config\WebSocketConfig.class
+org\spring\smarthome\web\controller\HomeController.class
+org\spring\smarthome\web\dao\StateDao.class
